@@ -1,4 +1,4 @@
-# UI test automation projects
+# UI test automation project
 
 ## Description
 
